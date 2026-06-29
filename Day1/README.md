@@ -4,8 +4,6 @@
 
 Today I started my Python programming journey. I learned the fundamental concepts of Python and practiced writing simple programs.
 
----
-
 ## 📚 Topics Covered
 
 ### ✅ 1. Hello World

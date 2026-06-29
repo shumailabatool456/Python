@@ -6,7 +6,7 @@ Rupees = 99.99
 print(name)
 print(age)
 print(type(Rupees))
-print("My name is Shumaila." "My age is 21")
+print("My name is Shumaila.", "My age is 21")
 # Arithmetic operators , perform mathematical operations
 a = 38
 b = 19

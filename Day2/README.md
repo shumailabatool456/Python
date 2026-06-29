@@ -51,7 +51,6 @@ Learned how to make decisions in Python using:
 * Check if a number is a multiple of 7
 * Find the greatest of four numbers
 
----
 
 ## 💡 Key Concepts Learned
 

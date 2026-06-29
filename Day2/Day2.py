@@ -4,14 +4,12 @@ str_1 = "This is a string.\t I create it."
 # str2 = 'This is a string'
 # str3 = """This is a string"""
 print(str_1)
-
 #Concatenation
 str1 = "hello"
 str2 = "Shumaila"
 print(str1 + str2)
 print(len(str1))
 print(len(str2))
-
 #Indexing
 string = "University of Education"
 print(string[0])
