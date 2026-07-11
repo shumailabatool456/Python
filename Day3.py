@@ -48,9 +48,9 @@ movies =[]
 mov1 = input("Enter names of your favorite 1st movie:")
 movies.append(mov1)
 mov2 = input("Enter names of your favorite 2nd movie:")
-movies.append(mov1)
+movies.append(mov2)
 mov3 = input("Enter names of your favorite 3rd movie:")
-movies.append(mov1)
+movies.append(mov3)
 print (movies)
 
 # WAP to check if a list contains a palindrome of elements.
