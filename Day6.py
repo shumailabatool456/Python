@@ -51,5 +51,15 @@ def calc_prod(num1, num2 = 7):
     prod = num1 * num2
     return num1 * num2
 print(calc_prod(5))
+# WAF to print length of a list
+cities = ["Lahore", "Vehari", "Multan", "Islamabad"]
+def print_len(cities):
+    print(len(cities))
+print_len(cities)
+# WAF to print elements of list in single line
 
-
+heroes = ["Ironman", "spiderman", "safeguard", "benten"]
+def print_heroes(list):
+    for hero in heroes:
+        print(hero, end=" ")
+print_heroes(heroes)
